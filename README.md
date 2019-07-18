@@ -6,7 +6,8 @@ There isn't an official prescribed order for tackling the problems, though a sub
 
 [x] 1. `stock_prices`
 
-2.  `recipe_batches`
+[x] 2. `recipe_batches`
+
 3.  `eating_cookies`
 4.  `rock_paper_scissors`
 5.  `making_change`
